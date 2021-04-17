@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-image-uploader": "^1.0.0",
     "react-scripts": "^4.0.3"
   },
   "scripts": {
@@ -30,5 +31,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@rpldy/upload-button": "^0.11.4",
+    "@rpldy/uploady": "^0.11.4",
+    "axios": "^0.21.1",
+    "install": "^0.13.0",
+    "npm": "^7.10.0",
+    "react-images-upload": "^1.2.8"
   }
 }
